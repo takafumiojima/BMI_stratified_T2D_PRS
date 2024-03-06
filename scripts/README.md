@@ -12,7 +12,5 @@
 
 #### 06. Delong's unpaired test
 
-#### 07. Cell-cell interaction analysis
-
-#### 08. Net reclassification index analysis
+#### 07. Net reclassification index analysis
 
