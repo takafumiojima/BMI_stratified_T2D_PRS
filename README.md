@@ -3,7 +3,9 @@
 ## Overview
 This repository provides codes used for BMI-stratified polygenic prediction of type 2 diabetes using the genomic data from more than 250,000 participants in BioBank Japan, UK Biobank, and Tohoku Medical Megabank.
 
-Ojima T, et al, "Body mass index stratification optimizes polygenic prediction of type 2 diabetes in cross-biobank analyses", Nature Genetics in press. 
+Ojima T, et al, "Body mass index stratification optimizes polygenic prediction of type 2 diabetes in cross-biobank analyses", Nature Genetics 2024
+
+https://www.nature.com/articles/s41588-024-01782-y
 
 ## Data availability
 The genotype data of BBJ are available at the NBDC Human Database (research ID: hum0014 and hum0311). The UKB analysis was conducted via application number 47821 (https://www.ukbiobank.ac.uk/). Individual genotyping results and other cohort data used for the polygenic prediction are stored in Tohoku Medical Megabank Organization (ToMMo). In response to reasonable requests for these data (contact us at 
